@@ -14,7 +14,7 @@
 - [Learning Resources](#learning-resources)
 - [Books](#books)
 - [Community](#community)
-- [Contributing](#contributing)
+- [Contribute](#contribute)
 - [License](#license)
 
 ## Libraries and Clients
